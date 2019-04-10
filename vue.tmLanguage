@@ -784,7 +784,7 @@
 				</dict>
 			</dict>
 			<key>name</key>
-			<string>source.lua.embedded.html</string>
+			<string>source.luae.embedded.html</string>
 			<key>patterns</key>
 			<array>
 				<dict>
@@ -813,7 +813,7 @@
 					<array>
 						<dict>
 							<key>include</key>
-							<string>source.lua</string>
+							<string>source.luae</string>
 						</dict>
 					</array>
 				</dict>
